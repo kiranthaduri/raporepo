@@ -1,0 +1,13 @@
+PuTTY README
+============
+
+This is the README file for the PuTTY MSI installer distribution. If
+you're reading this, you've probably just run our installer and
+installed PuTTY on your system.
+
+What should I do next?
+----------------------
+
+If you want to use PuTTY to connect to other computers, or use PSFTP
+to transfer files, you should just be able to run them from the
+Start menu.
